@@ -1,5 +1,5 @@
 # Code for our paper <a href="https://link.springer.com/content/pdf/10.1007/s10489-021-03011-z.pdf">"Generative model based robotic grasp pose prediction with limited dataset"</a>
-### Paper accepted at Springer, Applied Intelligence Journal on 13 Nov 2021.
+### Paper published at Springer, Applied Intelligence Journal on 10 Jan 2022.
 
 ### Article Link: <a href="https://doi.org/10.1007/s10489-021-03011-z"> Springer</a>
 
