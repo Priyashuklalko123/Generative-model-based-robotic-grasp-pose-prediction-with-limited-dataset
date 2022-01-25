@@ -42,13 +42,7 @@ python evaluate_vq_vae.py --network <path_to_saved_netowrk> --dataset cornell --
 # Citation
 
 ```
-@ARTICLE{Shukla2022-lc,
-  title    = "Generative model based robotic grasp pose prediction with limited
-              dataset",
-  author   = "Shukla, Priya and Pramanik, Nilotpal and Mehta, Deepesh and
-              Nandi, G C",
-  journal  = "Applied Intelligence",
-  month    =  jan,
-  year     =  2022
-}
+Shukla, P., Pramanik, N., Mehta, D., & Nandi, G.C. Generative model based
+robotic grasp pose prediction with limited dataset. Applied Intelligence (2022).
+https://doi.org/10.1007/s10489-021-03011-z
 ```
