@@ -26,7 +26,7 @@ python train_network_ginnet.py --dataset cornell --dataset-path <path_to_dataset
 
 2. Eval GI-NNet model
 ```
-python evaluate.py --network <path_to_saved_netowrk>  --dataset cornell --dataset-path <path_to_dataset_folder> --iou-eval --num-workers 4
+python evaluate.py --network <path_to_saved_network>  --dataset cornell --dataset-path <path_to_dataset_folder> --iou-eval --num-workers 4
 ```
 
 3. Train RGI-NNet model
